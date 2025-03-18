@@ -38,7 +38,8 @@ Prophet has several advantages associated with it. These are given below:-
 
 
 
-###################
+
+
 Detailed Code Explanation & Report: Air Quality Forecasting Using Prophet
 Objective
 The provided Python code is a comprehensive workflow that:
